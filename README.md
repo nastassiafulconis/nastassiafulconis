@@ -69,11 +69,5 @@ I'm Nastassia, a full stack software engineer currently located in DC. Take a lo
 ![](https://img.shields.io/badge/Method-Agile-informational?style=flat&logoColor=white&color=d19bcf)
 ![](https://img.shields.io/badge/Method-TDD-informational?style=flat&logoColor=white&color=d19bcf)
 
----
-
-## 📈 My GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nastassiafulconis&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nastassiafulconis&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->

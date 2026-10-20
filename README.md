@@ -7,7 +7,7 @@ Engineering leader and builder. I lead product engineering and still spend a lot
 - 🌱 Interested in climate, cities, and technology that shapes the physical world
 - 🌍 Remote, usually Miami ↔ Paris · French, English, Spanish
 
-**Current work:** Apostra, AdCP, and MCP.
+**Open source:** [TypeScript SDK type safety](https://github.com/adcontextprotocol/adcp-client/pull/353) · [API validation](https://github.com/adcontextprotocol/adcp-client/pull/343) · [MCP compatibility](https://github.com/adcontextprotocol/adcp-client/pull/2408)
 
 **Stack:** TypeScript · Node.js · Next.js · PostgreSQL · Redis · MCP · WorkOS · Auth0 · Stripe · Docker · AWS. Lately also writing Rust, Go, and Python.
 
